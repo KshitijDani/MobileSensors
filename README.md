@@ -1,4 +1,4 @@
 # MobileSensors
 
 
-App that utilizes the proximity sensor, accelerometer and magnetometer to play games with the user
+A mobile application that utilizes a mobile phone's proximity sensor, accelerometer and magnetometer to play games with the user
